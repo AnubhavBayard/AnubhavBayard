@@ -1,6 +1,8 @@
-# Hi, I'm Anubhav! 👋
+# Hi, I'm <YOUR NAME>! 👋
 
 I am a passionate developer interested in technology, software, and open source.
+
+![<Anubhav>'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavbayard&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
