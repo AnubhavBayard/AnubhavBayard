@@ -19,12 +19,12 @@ I am a passionate developer interested in technology, software, and open source.
 
 ## 📈 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=<username>&theme=onestar&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=anubhavbayard&theme=onestar&no-frame=true)
 
 ## 📬 Get in Touch
 
-- [Twitter](https://twitter.com/<twitter_handle>)
-- [LinkedIn](https://www.linkedin.com/in/<linkedin_handle>/)
+- [Twitter](https://twitter.com/jaguar_og)
+- [LinkedIn](https://www.linkedin.com/in/anubhav-bayard/)
 
 <!--
 Here are some ideas to get you started:
