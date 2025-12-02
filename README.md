@@ -11,7 +11,7 @@ I am a passionate developer interested in technology, software, and open source.
 - 🤝 Looking to collaborate on: [projects or topics]
 - 💬 Ask me about: [topics you are knowledgeable about]
 - 📫 How to reach me: [email or social link]
-- ⚡ Fun fact: [a fun or quirky detail about you]
+- ⚡ Fun fact: I am an outstanding introvert :)
 
 ## 🛠️ Tech Stack
 
