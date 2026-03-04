@@ -16,9 +16,6 @@ Software Developer & Open Source Enthusiast I do my work, do it well, and never 
 ![](https://nirzak-streak-stats.vercel.app/?user=AnubhavBayard&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavBayard&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnubhavBayard&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
