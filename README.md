@@ -3,7 +3,7 @@
 Software Developer & Open Source Enthusiast I do my work, do it well, and never stop growing. Currently diving deep into system design fundamentals to understand technical trade-offs at scale.
 
 # 💫 About Me:
-🔭 Currently working on: My portfolio<br>🌱 Currently learning: Web Development<br>🤝 Looking to collaborate on: Building scalable websites<br>💬 Ask me about: My life :)<br>📫 How to reach me: anubhavbayard.100@gmail.com<br>⚡ Fun fact: I am an outstanding introvert :)
+🔭 My portfolio: [Me](https://portfolio-plum-nine-t83py48y94.vercel.app/)<br>🌱 Currently learning: Web Development<br>🤝 Looking to collaborate on: Building scalable websites<br>💬 Ask me about: My life :)<br>📫 How to reach me: anubhavbayard.100@gmail.com<br>⚡ Fun fact: I am an outstanding introvert :)
 
 
 ## 🌐 Socials:
