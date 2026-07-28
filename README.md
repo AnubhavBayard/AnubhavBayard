@@ -21,10 +21,12 @@
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
-<h3 align="center">ᛃ &nbsp; THE JARL &nbsp; ᛃ</h3>
+<div align="center">
+  <img width="440" src="./assets/title-jarl.svg?v=1" alt="THE JARL" />
+</div>
 
 <div align="center">
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-&quot;&quot;-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAME&nbsp;&nbsp;...&nbsp;&nbsp;Anubhav&nbsp;Bayard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -48,10 +50,12 @@
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
-<h3 align="center">ᛏ &nbsp; THE ARMOURY &nbsp; ᛏ</h3>
+<div align="center">
+  <img width="440" src="./assets/title-armoury.svg?v=1" alt="THE ARMOURY" />
+</div>
 
 <div align="center">
 <samp>&nbsp;&nbsp;&nbsp;\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;<br/>
@@ -94,10 +98,12 @@
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
-<h3 align="center">ᚱ &nbsp; THE RAID LOG &nbsp; ᚱ</h3>
+<div align="center">
+  <img width="440" src="./assets/title-raid-log.svg?v=1" alt="THE RAID LOG" />
+</div>
 
 <div align="center">
 <samp>every&nbsp;raid&nbsp;a&nbsp;rune&nbsp;carved&nbsp;in&nbsp;stone&nbsp;—&nbsp;one&nbsp;year&nbsp;of&nbsp;plunder,&nbsp;in&nbsp;three&nbsp;dimensions</samp>
@@ -112,10 +118,12 @@
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
-<h3 align="center">ᛃ &nbsp; JÖRMUNGANDR &nbsp; ᛃ</h3>
+<div align="center">
+  <img width="440" src="./assets/title-jormungandr.svg?v=1" alt="JORMUNGANDR" />
+</div>
 
 <div align="center">
 <samp>the&nbsp;world&nbsp;serpent&nbsp;wakes,&nbsp;and&nbsp;devours&nbsp;the&nbsp;runes&nbsp;of&nbsp;the&nbsp;year</samp>
@@ -153,10 +161,12 @@
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
-<h3 align="center">ᚺ &nbsp; HÁVAMÁL &nbsp; ᚺ</h3>
+<div align="center">
+  <img width="440" src="./assets/title-havamal.svg?v=1" alt="HAVAMAL" />
+</div>
 
 <div align="center">
 <samp>&quot;Cattle&nbsp;die,&nbsp;kinsmen&nbsp;die,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -170,7 +180,7 @@ ship&nbsp;code&nbsp;that&nbsp;outlives&nbsp;the&nbsp;branch&nbsp;it&nbsp;was&nbs
 </div>
 
 <div align="center">
-<samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
 </div>
 
 <div align="center">
