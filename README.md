@@ -1,22 +1,17 @@
 <div align="center">
-
 <samp>&nbsp;█████╗&nbsp;███╗&nbsp;&nbsp;&nbsp;██╗██╗&nbsp;&nbsp;&nbsp;██╗██████╗&nbsp;██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;██╗&nbsp;&nbsp;&nbsp;██╗<br/>
 ██╔══██╗████╗&nbsp;&nbsp;██║██║&nbsp;&nbsp;&nbsp;██║██╔══██╗██║&nbsp;&nbsp;██║██╔══██╗██║&nbsp;&nbsp;&nbsp;██║<br/>
 ███████║██╔██╗&nbsp;██║██║&nbsp;&nbsp;&nbsp;██║██████╔╝███████║███████║██║&nbsp;&nbsp;&nbsp;██║<br/>
 ██╔══██║██║╚██╗██║██║&nbsp;&nbsp;&nbsp;██║██╔══██╗██╔══██║██╔══██║╚██╗&nbsp;██╔╝<br/>
 ██║&nbsp;&nbsp;██║██║&nbsp;╚████║╚██████╔╝██████╔╝██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;██║&nbsp;╚████╔╝<br/>
 ╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═══╝&nbsp;╚═════╝&nbsp;╚═════╝&nbsp;╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═╝&nbsp;&nbsp;╚═══╝</samp>
-
 </div>
 
 <div align="center">
-
 <samp>ᚨᚾᚢᛒᚺᚨᚹ&nbsp;&nbsp;ᛒᚨᛃᚨᚱᛞ&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;SKALD&nbsp;OF&nbsp;THE&nbsp;MACHINE</samp>
-
 </div>
 
 <div align="center">
-
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)_)&nbsp;&nbsp;)_)&nbsp;&nbsp;)_)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)___))___))___)\<br/>
@@ -26,7 +21,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;~~~~<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~</samp>
-
 </div>
 
 <div align="center">
@@ -48,15 +42,12 @@
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <h3 align="center">ᛃ &nbsp; THE JARL &nbsp; ᛃ</h3>
 
 <div align="center">
-
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-&quot;&quot;-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAME&nbsp;&nbsp;...&nbsp;&nbsp;Anubhav&nbsp;Bayard<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;.--.&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TITLE&nbsp;...&nbsp;&nbsp;Software&nbsp;Developer&nbsp;·&nbsp;Open&nbsp;Source&nbsp;Raider<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HALL&nbsp;&nbsp;...&nbsp;&nbsp;The&nbsp;Terminal<br/>
@@ -67,35 +58,28 @@
 &nbsp;&nbsp;&nbsp;&nbsp;||;&nbsp;::\__/::&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;Studying&nbsp;system&nbsp;design&nbsp;fundamentals,&nbsp;so&nbsp;every<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\&nbsp;&#x27;::::&#x27;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trade-off&nbsp;at&nbsp;scale&nbsp;is&nbsp;a&nbsp;choice,&nbsp;never&nbsp;an&nbsp;accident.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`=&#x27;:-..-&#x27;`</samp>
-
 </div>
 
 <div align="center">
-
 <samp>ᚱ&nbsp;&nbsp;&nbsp;SAILING&nbsp;TOWARD&nbsp;&nbsp;...&nbsp;&nbsp;scalable&nbsp;web&nbsp;systems,&nbsp;clean&nbsp;architecture<br/>
 ᚲ&nbsp;&nbsp;&nbsp;FORGING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;Web&nbsp;Development,&nbsp;backend&nbsp;craft,&nbsp;honest&nbsp;APIs<br/>
 ᛗ&nbsp;&nbsp;&nbsp;SEEKING&nbsp;CREW&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;open&nbsp;source,&nbsp;ambitious&nbsp;web&nbsp;builds<br/>
 ᛊ&nbsp;&nbsp;&nbsp;ASK&nbsp;ME&nbsp;OF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;my&nbsp;life&nbsp;:)<br/>
 ᚹ&nbsp;&nbsp;&nbsp;SEND&nbsp;WORD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;anubhavbayard.100@gmail.com</samp>
-
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <h3 align="center">ᛏ &nbsp; THE ARMOURY &nbsp; ᛏ</h3>
 
 <div align="center">
-
 <samp>&nbsp;&nbsp;&nbsp;\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;\\________________&nbsp;&nbsp;_________________________//<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[___MJOLNIR______][____SEAX_________________&gt;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br/>
 &nbsp;&nbsp;&nbsp;//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weapons&nbsp;carried&nbsp;into&nbsp;every&nbsp;raid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\</samp>
-
 </div>
 
 <div align="center">
@@ -131,17 +115,13 @@
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <h3 align="center">ᚱ &nbsp; THE RAID LOG &nbsp; ᚱ</h3>
 
 <div align="center">
-
 <samp>every&nbsp;raid&nbsp;a&nbsp;rune&nbsp;carved&nbsp;in&nbsp;stone&nbsp;—&nbsp;one&nbsp;year&nbsp;of&nbsp;plunder,&nbsp;in&nbsp;three&nbsp;dimensions</samp>
-
 </div>
 
 <div align="center">
@@ -153,21 +133,16 @@
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <h3 align="center">ᛃ &nbsp; JÖRMUNGANDR &nbsp; ᛃ</h3>
 
 <div align="center">
-
 <samp>the&nbsp;world&nbsp;serpent&nbsp;wakes,&nbsp;and&nbsp;devours&nbsp;the&nbsp;runes&nbsp;of&nbsp;the&nbsp;year</samp>
-
 </div>
 
 <div align="center">
-
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-&#x27;&nbsp;&nbsp;&nbsp;`&#x27;.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br/>
@@ -186,7 +161,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;`--&#x27;`&nbsp;&nbsp;&nbsp;)&nbsp;)&nbsp;&nbsp;&nbsp;&nbsp;.-&#x27;.&#x27;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x27;.&#x27;.&nbsp;&nbsp;|&nbsp;(<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(/`&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;(`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;)&nbsp;&nbsp;&#x27;-;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x27;-;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-&#x27;</samp>
-
 </div>
 
 <div align="center">
@@ -200,15 +174,12 @@
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <h3 align="center">ᚺ &nbsp; HÁVAMÁL &nbsp; ᚺ</h3>
 
 <div align="center">
-
 <samp>&quot;Cattle&nbsp;die,&nbsp;kinsmen&nbsp;die,<br/>
 &nbsp;and&nbsp;so&nbsp;must&nbsp;one&nbsp;die&nbsp;oneself.<br/>
 &nbsp;But&nbsp;one&nbsp;thing&nbsp;I&nbsp;know&nbsp;that&nbsp;never&nbsp;dies:<br/>
@@ -217,17 +188,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;Hávamál,&nbsp;st.&nbsp;77<br/>
 &nbsp;<br/>
 ship&nbsp;code&nbsp;that&nbsp;outlives&nbsp;the&nbsp;branch&nbsp;it&nbsp;was&nbsp;written&nbsp;on.</samp>
-
 </div>
 
 <div align="center">
-
 <samp>ᚦ&nbsp;&nbsp;═══════════════════════════════════════════════&nbsp;&nbsp;ᚦ</samp>
-
 </div>
 
 <div align="center">
-
 <samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;&nbsp;|&nbsp;&nbsp;/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`.&nbsp;&nbsp;\&nbsp;|&nbsp;/&nbsp;&nbsp;.&#x27;<br/>
@@ -241,5 +208,4 @@ ship&nbsp;code&nbsp;that&nbsp;outlives&nbsp;the&nbsp;branch&nbsp;it&nbsp;was&nbs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&#x27;&nbsp;&nbsp;/&nbsp;|&nbsp;\&nbsp;&nbsp;`.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;|&nbsp;&nbsp;\<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x27;&nbsp;&nbsp;&nbsp;&#x27;&nbsp;&nbsp;&nbsp;&#x27;</samp>
-
 </div>
