@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/header.svg?v=2" alt="Anubhav Bayard — skald of the machine" />
+  <img width="100%" src="./assets/header.svg?v=3" alt="Anubhav Bayard — skald of the machine" />
 </div>
 
 <div align="center">
@@ -174,5 +174,5 @@ ship&nbsp;code&nbsp;that&nbsp;outlives&nbsp;the&nbsp;branch&nbsp;it&nbsp;was&nbs
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/footer.svg?v=2" alt="fare well, wanderer" />
+  <img width="100%" src="./assets/footer.svg?v=3" alt="fare well, wanderer" />
 </div>
