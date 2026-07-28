@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" width="1000" height="430" role="img">
+  <style>
+    .fg   { fill: #1b1b1b; }
+    .red  { fill: #a4161a; }
+    .star { fill: #a4161a; animation-name: twinkle; animation-iteration-count: infinite;
+            animation-timing-function: ease-in-out; }
+    .ember{ fill: #a4161a; animation-name: rise; animation-iteration-count: infinite;
+            animation-timing-function: linear; opacity: 0; }
+    .wave { fill: #a4161a; animation-name: roll; animation-iteration-count: infinite;
+            animation-timing-function: linear; }
+    .aurora { animation: sway 14s ease-in-out infinite; transform-origin: 50% 50%; }
+    .glow { animation: pulse 4.5s ease-in-out infinite; }
+    .ship { animation: rock 6s ease-in-out infinite; transform-origin: 50% 60%; }
+
+    @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: .95 } }
+    @keyframes rise {
+      0%   { opacity: 0;  transform: translate(0, 0) }
+      12%  { opacity: .85 }
+      100% { opacity: 0;  transform: translate(var(--drift, 0px), -260px) }
+    }
+    @keyframes roll { from { transform: translateX(0) } to { transform: translateX(-1000px) } }
+    @keyframes sway { 0%,100% { transform: translateX(-18px) scaleY(1) }
+                      50%     { transform: translateX(18px)  scaleY(1.12) } }
+    @keyframes pulse { 0%,100% { opacity: .82 } 50% { opacity: 1 } }
+    @keyframes rock { 0%,100% { transform: rotate(-1.1deg) translateY(0) }
+                      50%     { transform: rotate(1.1deg)  translateY(-3px) } }
+
+    @media (prefers-color-scheme: dark) {
+      .fg   { fill: #f2f2f2; }
+      .red  { fill: #ff3b3b; }
+      .star { fill: #ff8a8a; }
+      .ember{ fill: #ff3b3b; }
+      .wave { fill: #ff3b3b; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .star, .ember, .wave, .aurora, .glow, .ship { animation: none }
+      .ember { opacity: .5 }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="aur" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#a4161a" stop-opacity="0"/>
+      <stop offset="35%"  stop-color="#a4161a" stop-opacity=".42"/>
+      <stop offset="65%"  stop-color="#6a040f" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#a4161a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+
+  <g>
+    <circle class="star" cx="323.8" cy="46.7" r="1.48" style="animation-duration:2.7s;animation-delay:2.68s"/>
+    <circle class="star" cx="365.7" cy="18.0" r="1.31" style="animation-duration:2.55s;animation-delay:2.17s"/>
+    <circle class="star" cx="69.9" cy="28.1" r="1.21" style="animation-duration:5.79s;animation-delay:0.62s"/>
+    <circle class="star" cx="223.2" cy="194.3" r="1.84" style="animation-duration:4.77s;animation-delay:1.98s"/>
+    <circle class="star" cx="976.3" cy="14.4" r="1.73" style="animation-duration:3.59s;animation-delay:0.72s"/>
+    <circle class="star" cx="117.8" cy="95.5" r="1.68" style="animation-duration:3.14s;animation-delay:2.91s"/>
+    <circle class="star" cx="638.9" cy="115.3" r="1.36" style="animation-duration:2.66s;animation-delay:0.3s"/>
+    <circle class="star" cx="206.0" cy="210.7" r="1.21" style="animation-duration:3.69s;animation-delay:2.93s"/>
+    <circle class="star" cx="453.2" cy="92.8" r="1.65" style="animation-duration:5.27s;animation-delay:1.22s"/>
+    <circle class="star" cx="574.4" cy="162.6" r="1.75" style="animation-duration:5.39s;animation-delay:1.44s"/>
+    <circle class="star" cx="980.2" cy="36.6" r="1.2" style="animation-duration:5.5s;animation-delay:0.76s"/>
+    <circle class="star" cx="489.0" cy="12.1" r="1.5" style="animation-duration:5.53s;animation-delay:2.87s"/>
+    <circle class="star" cx="875.5" cy="97.1" r="1.53" style="animation-duration:4.84s;animation-delay:2.9s"/>
+    <circle class="star" cx="456.2" cy="260.1" r="1.83" style="animation-duration:4.34s;animation-delay:3.32s"/>
+    <circle class="star" cx="60.7" cy="217.2" r="1.48" style="animation-duration:6.47s;animation-delay:4.11s"/>
+    <circle class="star" cx="284.6" cy="119.4" r="1.5" style="animation-duration:2.49s;animation-delay:2.31s"/>
+    <circle class="star" cx="168.0" cy="36.3" r="0.77" style="animation-duration:5.55s;animation-delay:0.65s"/>
+    <circle class="star" cx="247.6" cy="121.0" r="1.75" style="animation-duration:2.73s;animation-delay:2.25s"/>
+    <circle class="star" cx="549.4" cy="273.5" r="1.68" style="animation-duration:5.94s;animation-delay:1.39s"/>
+    <circle class="star" cx="415.3" cy="111.1" r="1.76" style="animation-duration:6.33s;animation-delay:0.75s"/>
+    <circle class="star" cx="176.2" cy="71.8" r="0.98" style="animation-duration:4.39s;animation-delay:2.95s"/>
+    <circle class="star" cx="262.7" cy="1.3" r="1.2" style="animation-duration:3.91s;animation-delay:2.83s"/>
+    <circle class="star" cx="953.1" cy="213.8" r="1.32" style="animation-duration:4.93s;animation-delay:3.38s"/>
+    <circle class="star" cx="54.0" cy="278.5" r="1.64" style="animation-duration:5.99s;animation-delay:3.99s"/>
+    <circle class="star" cx="392.4" cy="123.5" r="0.82" style="animation-duration:5.0s;animation-delay:0.31s"/>
+    <circle class="star" cx="67.3" cy="64.6" r="0.89" style="animation-duration:3.79s;animation-delay:0.26s"/>
+    <circle class="star" cx="0.2" cy="46.8" r="0.82" style="animation-duration:3.89s;animation-delay:0.13s"/>
+    <circle class="star" cx="874.3" cy="190.1" r="0.88" style="animation-duration:3.43s;animation-delay:1.74s"/>
+    <circle class="star" cx="364.2" cy="38.0" r="1.72" style="animation-duration:6.47s;animation-delay:2.33s"/>
+    <circle class="star" cx="483.8" cy="26.6" r="0.82" style="animation-duration:3.8s;animation-delay:1.32s"/>
+    <circle class="star" cx="828.9" cy="50.0" r="0.73" style="animation-duration:6.3s;animation-delay:2.64s"/>
+    <circle class="star" cx="146.6" cy="168.2" r="0.73" style="animation-duration:4.57s;animation-delay:4.89s"/>
+    <circle class="star" cx="863.3" cy="215.5" r="1.01" style="animation-duration:3.9s;animation-delay:0.84s"/>
+    <circle class="star" cx="771.9" cy="164.9" r="1.63" style="animation-duration:3.75s;animation-delay:1.12s"/>
+    <circle class="star" cx="811.5" cy="304.9" r="1.72" style="animation-duration:5.7s;animation-delay:4.09s"/>
+    <circle class="star" cx="739.9" cy="70.2" r="1.32" style="animation-duration:3.86s;animation-delay:0.14s"/>
+    <circle class="star" cx="27.9" cy="86.5" r="1.01" style="animation-duration:5.24s;animation-delay:4.78s"/>
+    <circle class="star" cx="447.2" cy="290.1" r="1.89" style="animation-duration:6.32s;animation-delay:1.82s"/>
+    <circle class="star" cx="220.5" cy="70.2" r="0.94" style="animation-duration:3.24s;animation-delay:3.12s"/>
+    <circle class="star" cx="900.3" cy="260.2" r="1.28" style="animation-duration:5.08s;animation-delay:4.0s"/>
+    <circle class="star" cx="84.8" cy="204.5" r="1.79" style="animation-duration:5.61s;animation-delay:3.75s"/>
+    <circle class="star" cx="478.0" cy="55.3" r="1.65" style="animation-duration:3.76s;animation-delay:4.0s"/>
+    <circle class="star" cx="971.7" cy="122.6" r="1.18" style="animation-duration:6.28s;animation-delay:3.62s"/>
+    <circle class="star" cx="170.0" cy="39.3" r="0.88" style="animation-duration:6.11s;animation-delay:4.03s"/>
+    <circle class="star" cx="146.2" cy="255.9" r="1.88" style="animation-duration:5.09s;animation-delay:1.75s"/>
+    <circle class="star" cx="548.7" cy="40.6" r="0.72" style="animation-duration:6.38s;animation-delay:3.25s"/>
+  </g>
+
+    <g class="aurora">
+      <ellipse cx="500" cy="70" rx="470" ry="52" fill="url(#aur)"/>
+      <ellipse cx="330" cy="118" rx="300" ry="34" fill="url(#aur)" opacity=".6"/>
+      <ellipse cx="690" cy="104" rx="260" ry="30" fill="url(#aur)" opacity=".5"/>
+    </g>
+
+  <g class="glow">
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="92.0" font-size="21" xml:space="preserve" text-anchor="middle"> █████╗ ███╗   ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗</text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="116.15" font-size="21" xml:space="preserve" text-anchor="middle">██╔══██╗████╗  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗██║   ██║</text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="140.3" font-size="21" xml:space="preserve" text-anchor="middle">███████║██╔██╗ ██║██║   ██║██████╔╝███████║███████║██║   ██║</text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="164.45" font-size="21" xml:space="preserve" text-anchor="middle">██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝</text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="188.6" font-size="21" xml:space="preserve" text-anchor="middle">██║  ██║██║ ╚████║╚██████╔╝██████╔╝██║  ██║██║  ██║ ╚████╔╝ </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="212.75" font-size="21" xml:space="preserve" text-anchor="middle">╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  </text>
+  </g>
+  <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="red" x="500" y="238" font-size="15" letter-spacing="3.2"
+        text-anchor="middle">ᚨᚾᚢᛒᚺᚨᚹ  ᛒᚨᛃᚨᚱᛞ  ·  SKALD OF THE MACHINE</text>
+  <g class="ship">
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="288.0" font-size="15" xml:space="preserve" text-anchor="middle">        |    |    |                     </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="305.25" font-size="15" xml:space="preserve" text-anchor="middle">       )_)  )_)  )_)                    </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="322.5" font-size="15" xml:space="preserve" text-anchor="middle">      )___))___))___)\                  </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="339.75" font-size="15" xml:space="preserve" text-anchor="middle">     )____)____)_____)\\                </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="357.0" font-size="15" xml:space="preserve" text-anchor="middle">   _____|____|____|____\\\__            </text>
+    <text font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace" class="fg" x="500" y="374.25" font-size="15" xml:space="preserve" text-anchor="middle">---------\                    /---------</text>
+  </g>
+  <g>
+    <path class="wave" d="M0,378 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 q62,-12 125,0 q62,12 125,0 L2000,400 L0,400 Z" opacity=".30" style="animation-duration:9s"/>
+    <path class="wave" d="M0,392 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 q62,-9 125,0 q62,9 125,0 L2000,400 L0,400 Z" opacity=".22" style="animation-duration:14s"/>
+    <path class="wave" d="M0,404 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 q62,-7 125,0 q62,7 125,0 L2000,400 L0,400 Z" opacity=".16" style="animation-duration:20s"/>
+  </g>
+  <g>
+    <circle class="ember" cx="525.5" cy="430" r="2.5" style="animation-duration:9.04s;animation-delay:7.85s;--drift:17.0px"/>
+    <circle class="ember" cx="222.6" cy="430" r="1.48" style="animation-duration:8.05s;animation-delay:2.16s;--drift:4.5px"/>
+    <circle class="ember" cx="269.0" cy="430" r="1.73" style="animation-duration:6.92s;animation-delay:8.19s;--drift:-7.6px"/>
+    <circle class="ember" cx="459.8" cy="430" r="1.98" style="animation-duration:12.33s;animation-delay:3.79s;--drift:21.7px"/>
+    <circle class="ember" cx="501.6" cy="430" r="1.9" style="animation-duration:9.66s;animation-delay:0.17s;--drift:-3.1px"/>
+    <circle class="ember" cx="195.8" cy="430" r="1.11" style="animation-duration:11.59s;animation-delay:1.55s;--drift:-1.4px"/>
+    <circle class="ember" cx="716.2" cy="430" r="1.93" style="animation-duration:8.28s;animation-delay:4.67s;--drift:2.9px"/>
+    <circle class="ember" cx="772.9" cy="430" r="1.26" style="animation-duration:9.92s;animation-delay:2.24s;--drift:-11.6px"/>
+    <circle class="ember" cx="761.4" cy="430" r="1.86" style="animation-duration:9.93s;animation-delay:6.84s;--drift:21.4px"/>
+    <circle class="ember" cx="445.5" cy="430" r="2.02" style="animation-duration:9.54s;animation-delay:4.61s;--drift:10.0px"/>
+    <circle class="ember" cx="454.3" cy="430" r="1.9" style="animation-duration:9.35s;animation-delay:8.47s;--drift:10.4px"/>
+    <circle class="ember" cx="861.5" cy="430" r="2.51" style="animation-duration:7.82s;animation-delay:5.04s;--drift:23.0px"/>
+    <circle class="ember" cx="826.4" cy="430" r="1.31" style="animation-duration:6.85s;animation-delay:3.98s;--drift:-22.2px"/>
+    <circle class="ember" cx="251.0" cy="430" r="1.21" style="animation-duration:10.69s;animation-delay:7.06s;--drift:20.6px"/>
+    <circle class="ember" cx="168.3" cy="430" r="2.17" style="animation-duration:10.62s;animation-delay:1.29s;--drift:19.9px"/>
+    <circle class="ember" cx="948.8" cy="430" r="1.43" style="animation-duration:12.67s;animation-delay:3.58s;--drift:-0.7px"/>
+  </g>
+
+</svg>
