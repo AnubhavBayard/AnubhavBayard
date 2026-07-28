@@ -1,0 +1,22 @@
+{
+  "type": "normal",
+  "fileName": "raid-log.svg",
+  "backgroundColor": "transparent",
+  "foregroundColor": "#1b1b1b",
+  "strongColor": "#a4161a",
+  "weakColor": "#8a8a8a",
+  "radarColor": "#a4161a",
+  "growingAnimation": true,
+  "contribColors": ["#e3e3e3", "#f0a6a6", "#d33f4a", "#a4161a", "#6a040f"],
+  "darkMode": {
+    "type": "normal",
+    "fileName": "raid-log.svg",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#f2f2f2",
+    "strongColor": "#ff3b3b",
+    "weakColor": "#8a8a8a",
+    "radarColor": "#ff3b3b",
+    "growingAnimation": true,
+    "contribColors": ["#2a2a2e", "#5c0f14", "#a4161a", "#d33f4a", "#ff3b3b"]
+  }
+}

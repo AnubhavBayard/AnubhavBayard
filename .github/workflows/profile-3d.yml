@@ -20,10 +20,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
+
+      - name: Keep only the raid log, drop pie + radar charts
+        run: |
+          find profile-3d-contrib -name '*.svg' ! -name 'raid-log.svg' -delete
+          python3 .github/scripts/strip_charts.py profile-3d-contrib/raid-log.svg
+
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A profile-3d-contrib
-          git diff --staged --quiet || git commit -m "chore: regenerate 3D contribution charts"
+          git diff --staged --quiet || git commit -m "chore: regenerate 3D contribution chart"
           git push
