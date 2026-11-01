@@ -24,6 +24,8 @@
     }
     @keyframes rv-blink { 0%,95% { transform: scaleY(1) } 96%,99% { transform: scaleY(.1) } }
     @keyframes rv-flick { 0%,70%,100% { transform: rotate(0) } 76% { transform: rotate(9deg) } 82% { transform: rotate(-3deg) } }
+    .glow { flood-color: #a4161a; flood-opacity: .35; animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { flood-opacity: .3 } 50% { flood-opacity: .7 } }
     @keyframes breathe { 0%,100% { opacity: .45 } 50% { opacity: 1 } }
     @keyframes sweep {
       0%    { transform: translateX(-140px) }
@@ -33,17 +35,21 @@
       .fg  { fill: #f2f2f2; }
       .red { fill: #ff3b3b; }
       .ln  { stroke: #ff3b3b; }
+      .glow { flood-color: #ff3b3b; }
       .raven { fill: #ffffff; stroke: none; }
       .rv-eye { fill: #0d1117; stroke: none; }
       .rv-cut { stroke: #0d1117; stroke-width: 1.5; }
       .rv-leg { stroke: #ffffff; }
     }
     @media (prefers-reduced-motion: reduce) {
-      .rune, .rune2, .glint, .rv-body, .rv-head, .rv-blink, .rv-tail { animation: none }
+      .rune, .rune2, .glint, .glow, .rv-body, .rv-head, .rv-blink, .rv-tail { animation: none }
       .glint { opacity: 0 }
     }
   </style>
   <defs>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feDropShadow class="glow" dx="0" dy="0" stdDeviation="4"/>
+    </filter>
     <linearGradient id="gl" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%"   stop-color="#ff3b3b" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#ff3b3b" stop-opacity=".95"/>
@@ -52,9 +58,9 @@
   </defs>
   <g font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace">
 
-    <text class="red rune"  x="30"  y="30" font-size="21" text-anchor="middle">ᛏ</text>
-    <text class="red rune2" x="530" y="30" font-size="21" text-anchor="middle">ᛏ</text>
-    <text class="fg" x="280" y="31" font-size="21" font-weight="700" letter-spacing="4.5"
+    <text class="red rune"  x="30"  y="33" font-size="28" text-anchor="middle">ᛏ</text>
+    <text class="red rune2" x="530" y="33" font-size="28" text-anchor="middle">ᛏ</text>
+    <text class="fg" x="280" y="31" font-size="32" font-weight="800" letter-spacing="6" filter="url(#glow)"
           text-anchor="middle">THE ARMOURY</text>
     <line class="ln" x1="60" y1="46" x2="500" y2="46" stroke-width="1.2" opacity=".35"/>
     <g clip-path="url(#clip)">
@@ -64,7 +70,7 @@
 
   </g>
   <!-- raven perched on the Y of THE ARMOURY -->
-  <g transform="translate(367 15.5) scale(.95)">
+  <g transform="translate(404 8) scale(.95)">
     <path class="rv-leg" d="M0 -9 L-1 0 M-6 0 L1 0 M5 -9 L4 0 M-1 0 L6 0"/>
     <g class="rv-tail"><path class="raven" d="M17 -16 L33 -1.5 L27.5 -2.5 L28.5 0.5 L14 -8.5 Z"/></g>
     <g class="rv-body">

@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-jarl.svg?v=1" alt="THE JARL" />
+  <img width="620" src="./assets/title-jarl.svg?v=5" alt="THE JARL" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-armoury.svg?v=4" alt="THE ARMOURY" />
+  <img width="620" src="./assets/title-armoury.svg?v=5" alt="THE ARMOURY" />
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-sagas.svg?v=1" alt="THE SAGAS" />
+  <img width="620" src="./assets/title-sagas.svg?v=5" alt="THE SAGAS" />
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-raid-log.svg?v=1" alt="THE RAID LOG" />
+  <img width="620" src="./assets/title-raid-log.svg?v=5" alt="THE RAID LOG" />
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-jormungandr.svg?v=1" alt="JORMUNGANDR" />
+  <img width="620" src="./assets/title-jormungandr.svg?v=5" alt="JORMUNGANDR" />
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-havamal.svg?v=1" alt="HAVAMAL" />
+  <img width="620" src="./assets/title-havamal.svg?v=5" alt="HAVAMAL" />
 </div>
 
 <div align="center">
