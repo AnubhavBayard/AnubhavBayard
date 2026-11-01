@@ -8,11 +8,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/anubhav-bayard"><img src="https://img.shields.io/badge/LINKEDIN-A4161A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0D0D0D" alt="linkedin" /></a>
-<a href="https://x.com/Achieve77531039"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D" alt="x" /></a>
+<a href="https://x.com/Achieve77531039"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D" alt="twitter" /></a>
 <a href="https://instagram.com/anubhavbayard"><img src="https://img.shields.io/badge/INSTAGRAM-A4161A?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=0D0D0D" alt="instagram" /></a>
-<a href="https://portfolio-plum-nine-t83py48y94.vercel.app/"><img src="https://img.shields.io/badge/LONGHOUSE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D0D0D&labelColor=0D0D0D" alt="longhouse" /></a>
-<a href="mailto:anubhavbayard.100@gmail.com"><img src="https://img.shields.io/badge/RAVEN%20MAIL-A4161A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0D0D0D" alt="raven%20mail" /></a>
+<a href="https://portfolio-plum-nine-t83py48y94.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D0D0D&labelColor=0D0D0D" alt="portfolio" /></a>
 
 <br/>
 
