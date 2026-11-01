@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://x.com/Achieve77531039"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D" alt="twitter" /></a>
+<a href="https://x.com/anubhavbayard"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D" alt="twitter" /></a>
 <a href="https://instagram.com/anubhavbayard"><img src="https://img.shields.io/badge/INSTAGRAM-A4161A?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=0D0D0D" alt="instagram" /></a>
 <a href="https://portfolio-plum-nine-t83py48y94.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D0D0D&labelColor=0D0D0D" alt="portfolio" /></a>
 
@@ -44,7 +44,7 @@
 ᚲ&nbsp;&nbsp;&nbsp;FORGING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;Web&nbsp;Development,&nbsp;backend&nbsp;craft,&nbsp;honest&nbsp;APIs<br/>
 ᛗ&nbsp;&nbsp;&nbsp;SEEKING&nbsp;CREW&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;open&nbsp;source,&nbsp;ambitious&nbsp;web&nbsp;builds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 ᛊ&nbsp;&nbsp;&nbsp;ASK&nbsp;ME&nbsp;OF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;my&nbsp;life&nbsp;:)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-ᚹ&nbsp;&nbsp;&nbsp;SEND&nbsp;WORD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;anubhavbayard.100@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+ᚹ&nbsp;&nbsp;&nbsp;SEND&nbsp;WORD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;letsmailanu.10@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
 </div>
 
 <div align="center">
