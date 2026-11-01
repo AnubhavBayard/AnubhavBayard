@@ -6,7 +6,7 @@
     .rune { animation: breathe 6s ease-in-out infinite; }
     .rune2{ animation: breathe 6s ease-in-out infinite; animation-delay: 3s; }
     .glint{ animation: sweep 7s cubic-bezier(.4,0,.2,1) infinite; }
-    .raven { fill: #14181d; }
+    .raven { fill: #ffffff; stroke: #14181d; stroke-width: .8; stroke-linejoin: round; }
     .rv-eye { fill: #a4161a; }
     .rv-leg { stroke: #14181d; stroke-width: 1.6; stroke-linecap: round; fill: none; }
     .rv-head, .rv-wing, .rv-tail, .rv-body, .rv-blink { transform-box: fill-box; }
@@ -40,9 +40,9 @@
       .fg  { fill: #f2f2f2; }
       .red { fill: #ff3b3b; }
       .ln  { stroke: #ff3b3b; }
-      .raven { fill: #17171b; stroke: #ff3b3b; stroke-width: .7; stroke-opacity: .8; }
+      .raven { fill: #ffffff; stroke: none; }
       .rv-eye { fill: #ff3b3b; stroke: none; }
-      .rv-leg { stroke: #ff3b3b; stroke-opacity: .85; }
+      .rv-leg { stroke: #ffffff; }
     }
     @media (prefers-reduced-motion: reduce) {
       .rune, .rune2, .glint, .rv-body, .rv-head, .rv-blink, .rv-wing, .rv-tail { animation: none }
