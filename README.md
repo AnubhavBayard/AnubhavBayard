@@ -132,13 +132,11 @@
 
 <div align="center">
 
-| saga | what it does | forged with |
-|:--|:--|:--|
-| [**dhvani**](https://github.com/AnubhavBayard/dhvani) | Voice RAG over Indic MS MARCO. Speak Hindi, Bengali, Tamil or English, get grounded answers with citations or a deliberate refusal. | Python · RAG · speech |
-| [**securevault**](https://github.com/AnubhavBayard/securevault) | Zero-knowledge password manager for Android, web and Chrome. AES-256-GCM on device; server sees only encrypted blobs. | JavaScript · crypto |
-| [**off-we-go**](https://github.com/AnubhavBayard/off-we-go) | Android app to eat your way around the world: 1,387 sourced dishes across 29 countries, plus photo food memories on a map. | TypeScript · Android |
-| [**My-Manager**](https://github.com/AnubhavBayard/My-Manager) | Private RAG assistant for personal docs, certificates and scans. | FastAPI · React · ChromaDB |
-| [**hhgoa-frame-generator**](https://github.com/AnubhavBayard/hhgoa-frame-generator) | Canvas-rendered PFP frames and builder-ID cards for Hacker House Goa 2026, shareable to X. | JavaScript · Canvas |
+<a href="https://github.com/AnubhavBayard/dhvani"><img width="49%" src="./assets/saga-dhvani.svg?v=1" alt="dhvani" /></a>
+<a href="https://github.com/AnubhavBayard/securevault"><img width="49%" src="./assets/saga-securevault.svg?v=1" alt="securevault" /></a>
+<a href="https://github.com/AnubhavBayard/off-we-go"><img width="49%" src="./assets/saga-off-we-go.svg?v=1" alt="off-we-go" /></a>
+<a href="https://github.com/AnubhavBayard/My-Manager"><img width="49%" src="./assets/saga-my-manager.svg?v=1" alt="My-Manager" /></a>
+<a href="https://github.com/AnubhavBayard/hhgoa-frame-generator"><img width="49%" src="./assets/saga-hhgoa-frame-generator.svg?v=1" alt="hhgoa-frame-generator" /></a>
 
 </div>
 

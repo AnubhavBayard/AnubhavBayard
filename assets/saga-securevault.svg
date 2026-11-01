@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" width="420" height="200" role="img" aria-label="securevault">
+  <style>
+    .bg   { fill: #faf8f6; stroke: #a4161a; stroke-opacity: .45; }
+    .fg   { fill: #14181d; }
+    .dim  { fill-opacity: .78; }
+    .red  { fill: #a4161a; }
+    .ln   { stroke: #a4161a; }
+    .chip { fill: none; stroke: #a4161a; stroke-opacity: .6; }
+    .rune { animation: breathe 6s ease-in-out infinite; }
+    .glint{ animation: sweep 7s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes breathe { 0%,100% { opacity: .45 } 50% { opacity: 1 } }
+    @keyframes sweep { 0% { transform: translateX(-140px) } 55%,100% { transform: translateX(460px) } }
+    @media (prefers-color-scheme: dark) {
+      .bg   { fill: #121214; stroke: #ff3b3b; }
+      .fg   { fill: #f2f2f2; }
+      .red  { fill: #ff3b3b; }
+      .ln   { stroke: #ff3b3b; }
+      .chip { stroke: #ff3b3b; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .rune, .glint { animation: none }
+      .glint { opacity: 0 }
+    }
+  </style>
+  <defs>
+    <linearGradient id="gl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff3b3b" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff3b3b" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#ff3b3b" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="28" y="62" width="364" height="6"/></clipPath>
+  </defs>
+  <rect class="bg" x="1" y="1" width="418" height="198" rx="8" stroke-width="1.2"/>
+  <rect class="red" x="1" y="18" width="3" height="40" rx="1.5"/>
+  <g font-family="'JetBrains Mono','Fira Code','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace">
+    <text class="red rune" x="28" y="47" font-size="24">ᛉ</text>
+    <text class="fg" x="58" y="45" font-size="18" font-weight="700" letter-spacing="1">securevault</text>
+    <text class="red" x="392" y="44" font-size="10.5" letter-spacing="2.5" text-anchor="end">SAGA II</text>
+    <line class="ln" x1="28" y1="65" x2="392" y2="65" stroke-width="1" opacity=".3"/>
+    <g clip-path="url(#clip)"><rect class="glint" x="0" y="63" width="140" height="4" fill="url(#gl)" rx="2"/></g>
+    <text class="fg dim" x="28" y="92" font-size="12.5">Zero-knowledge password manager for Android,</text>
+    <text class="fg dim" x="28" y="111" font-size="12.5">web and Chrome. AES-256-GCM on device; the</text>
+    <text class="fg dim" x="28" y="130" font-size="12.5">server only ever sees encrypted blobs.</text>
+    <rect class="chip" x="28" y="160" width="51" height="20" rx="3"/><text class="red" x="53.5" y="174" font-size="10.5" font-weight="700" letter-spacing=".6" text-anchor="middle">REACT</text>
+    <rect class="chip" x="87" y="160" width="79" height="20" rx="3"/><text class="red" x="126.5" y="174" font-size="10.5" font-weight="700" letter-spacing=".6" text-anchor="middle">CAPACITOR</text>
+    <rect class="chip" x="174" y="160" width="65" height="20" rx="3"/><text class="red" x="206.5" y="174" font-size="10.5" font-weight="700" letter-spacing=".6" text-anchor="middle">EXPRESS</text>
+    <rect class="chip" x="247" y="160" width="72" height="20" rx="3"/><text class="red" x="283.0" y="174" font-size="10.5" font-weight="700" letter-spacing=".6" text-anchor="middle">POSTGRES</text>
+  </g>
+</svg>
