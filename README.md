@@ -160,7 +160,7 @@
 
 <img width="100%" src="./profile-3d-contrib/raid-log.svg" alt="3D contribution raid log" />
 
-<sub>carved anew each dawn by GitHub Actions · <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></sub>
+<sub>carved anew every three hours by GitHub Actions · <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></sub>
 
 </div>
 
