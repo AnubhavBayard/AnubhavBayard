@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img width="440" src="./assets/title-armoury.svg?v=3" alt="THE ARMOURY" />
+  <img width="440" src="./assets/title-armoury.svg?v=4" alt="THE ARMOURY" />
 </div>
 
 <div align="center">
