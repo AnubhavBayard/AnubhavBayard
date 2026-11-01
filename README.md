@@ -74,30 +74,49 @@
 <img src="https://img.shields.io/badge/PYTHON-0D0D0D?style=flat-square&logo=python&logoColor=FFFFFF&labelColor=0D0D0D" alt="python" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-A4161A?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=0D0D0D" alt="javascript" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-0D0D0D?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=0D0D0D" alt="typescript" />
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=0D0D0D" alt="html5" />
-<img src="https://img.shields.io/badge/CSS3-A4161A?style=flat-square&logo=css3&logoColor=FFFFFF&labelColor=0D0D0D" alt="css3" />
+<img src="https://img.shields.io/badge/HTML5-A4161A?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=0D0D0D" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css&logoColor=FFFFFF&labelColor=0D0D0D" alt="css3" />
 
-<b>LONGSHIPS &nbsp;·&nbsp; frameworks &amp; runtime</b>
+<b>LONGSHIPS &nbsp;·&nbsp; frontend &amp; mobile</b>
 
 <img src="https://img.shields.io/badge/REACT-0D0D0D?style=flat-square&logo=react&logoColor=FFFFFF&labelColor=0D0D0D" alt="react" />
-<img src="https://img.shields.io/badge/NODE.JS-A4161A?style=flat-square&logo=node.js&logoColor=FFFFFF&labelColor=0D0D0D" alt="node.js" />
-<img src="https://img.shields.io/badge/EXPRESS-0D0D0D?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=0D0D0D" alt="express" />
-<img src="https://img.shields.io/badge/NODEMON-A4161A?style=flat-square&logo=nodemon&logoColor=FFFFFF&labelColor=0D0D0D" alt="nodemon" />
-<img src="https://img.shields.io/badge/NPM-0D0D0D?style=flat-square&logo=npm&logoColor=FFFFFF&labelColor=0D0D0D" alt="npm" />
-<img src="https://img.shields.io/badge/FASTAPI-A4161A?style=flat-square&logo=fastapi&logoColor=FFFFFF&labelColor=0D0D0D" alt="fastapi" />
-<img src="https://img.shields.io/badge/DOCKER-0D0D0D?style=flat-square&logo=docker&logoColor=FFFFFF&labelColor=0D0D0D" alt="docker" />
-<img src="https://img.shields.io/badge/SUPABASE-A4161A?style=flat-square&logo=supabase&logoColor=FFFFFF&labelColor=0D0D0D" alt="supabase" />
+<img src="https://img.shields.io/badge/NEXT.JS-A4161A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D0D0D" alt="next.js" />
+<img src="https://img.shields.io/badge/VITE-0D0D0D?style=flat-square&logo=vite&logoColor=FFFFFF&labelColor=0D0D0D" alt="vite" />
+<img src="https://img.shields.io/badge/TAILWIND-A4161A?style=flat-square&logo=tailwindcss&logoColor=FFFFFF&labelColor=0D0D0D" alt="tailwind" />
+<img src="https://img.shields.io/badge/IONIC-0D0D0D?style=flat-square&logo=ionic&logoColor=FFFFFF&labelColor=0D0D0D" alt="ionic" />
+<img src="https://img.shields.io/badge/CAPACITOR-A4161A?style=flat-square&logo=capacitor&logoColor=FFFFFF&labelColor=0D0D0D" alt="capacitor" />
+<img src="https://img.shields.io/badge/GSAP-0D0D0D?style=flat-square&logo=greensock&logoColor=FFFFFF&labelColor=0D0D0D" alt="gsap" />
+
+<b>WAR CHEST &nbsp;·&nbsp; backend &amp; data</b>
+
+<img src="https://img.shields.io/badge/NODE.JS-0D0D0D?style=flat-square&logo=node.js&logoColor=FFFFFF&labelColor=0D0D0D" alt="node.js" />
+<img src="https://img.shields.io/badge/EXPRESS-A4161A?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=0D0D0D" alt="express" />
+<img src="https://img.shields.io/badge/FASTAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=FFFFFF&labelColor=0D0D0D" alt="fastapi" />
+<img src="https://img.shields.io/badge/POSTGRESQL-A4161A?style=flat-square&logo=postgresql&logoColor=FFFFFF&labelColor=0D0D0D" alt="postgresql" />
+<img src="https://img.shields.io/badge/SUPABASE-0D0D0D?style=flat-square&logo=supabase&logoColor=FFFFFF&labelColor=0D0D0D" alt="supabase" />
+<img src="https://img.shields.io/badge/CLERK-A4161A?style=flat-square&logo=clerk&logoColor=FFFFFF&labelColor=0D0D0D" alt="clerk" />
+
+<b>SEIDR &nbsp;·&nbsp; AI &amp; ML</b>
+
+<img src="https://img.shields.io/badge/HUGGING%20FACE-0D0D0D?style=flat-square&logo=huggingface&logoColor=FFFFFF&labelColor=0D0D0D" alt="hugging face" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-A4161A?style=flat-square&logo=scikitlearn&logoColor=FFFFFF&labelColor=0D0D0D" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/PANDAS-0D0D0D?style=flat-square&logo=pandas&logoColor=FFFFFF&labelColor=0D0D0D" alt="pandas" />
+<img src="https://img.shields.io/badge/NUMPY-A4161A?style=flat-square&logo=numpy&logoColor=FFFFFF&labelColor=0D0D0D" alt="numpy" />
+<img src="https://img.shields.io/badge/ONNX-0D0D0D?style=flat-square&logo=onnx&logoColor=FFFFFF&labelColor=0D0D0D" alt="onnx" />
+<img src="https://img.shields.io/badge/JUPYTER-A4161A?style=flat-square&logo=jupyter&logoColor=FFFFFF&labelColor=0D0D0D" alt="jupyter" />
 
 <b>FORGE &nbsp;·&nbsp; tools &amp; halls</b>
 
 <img src="https://img.shields.io/badge/GIT-0D0D0D?style=flat-square&logo=git&logoColor=FFFFFF&labelColor=0D0D0D" alt="git" />
 <img src="https://img.shields.io/badge/GITHUB-A4161A?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D0D0D" alt="github" />
-<img src="https://img.shields.io/badge/POSTMAN-0D0D0D?style=flat-square&logo=postman&logoColor=FFFFFF&labelColor=0D0D0D" alt="postman" />
+<img src="https://img.shields.io/badge/DOCKER-0D0D0D?style=flat-square&logo=docker&logoColor=FFFFFF&labelColor=0D0D0D" alt="docker" />
+<img src="https://img.shields.io/badge/VERCEL-A4161A?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=0D0D0D" alt="vercel" />
+<img src="https://img.shields.io/badge/ANDROID-0D0D0D?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=0D0D0D" alt="android" />
+<img src="https://img.shields.io/badge/POSTMAN-A4161A?style=flat-square&logo=postman&logoColor=FFFFFF&labelColor=0D0D0D" alt="postman" />
+<img src="https://img.shields.io/badge/NPM-0D0D0D?style=flat-square&logo=npm&logoColor=FFFFFF&labelColor=0D0D0D" alt="npm" />
 <img src="https://img.shields.io/badge/ANACONDA-A4161A?style=flat-square&logo=anaconda&logoColor=FFFFFF&labelColor=0D0D0D" alt="anaconda" />
-<img src="https://img.shields.io/badge/POWERSHELL-0D0D0D?style=flat-square&logo=powershell&logoColor=FFFFFF&labelColor=0D0D0D" alt="powershell" />
-<img src="https://img.shields.io/badge/TERMINAL-A4161A?style=flat-square&logo=windows-terminal&logoColor=FFFFFF&labelColor=0D0D0D" alt="terminal" />
 <img src="https://img.shields.io/badge/NOTION-0D0D0D?style=flat-square&logo=notion&logoColor=FFFFFF&labelColor=0D0D0D" alt="notion" />
-<img src="https://img.shields.io/badge/CANVA-A4161A?style=flat-square&logo=canva&logoColor=FFFFFF&labelColor=0D0D0D" alt="canva" />
+<img src="https://img.shields.io/badge/CANVA-A4161A?style=flat-square&logoColor=FFFFFF&labelColor=0D0D0D" alt="canva" />
 
 </div>
 
