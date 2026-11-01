@@ -73,6 +73,7 @@
 <img src="https://img.shields.io/badge/JAVA-A4161A?style=flat-square&logo=openjdk&logoColor=FFFFFF&labelColor=0D0D0D" alt="java" />
 <img src="https://img.shields.io/badge/PYTHON-0D0D0D?style=flat-square&logo=python&logoColor=FFFFFF&labelColor=0D0D0D" alt="python" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-A4161A?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=0D0D0D" alt="javascript" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-0D0D0D?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=0D0D0D" alt="typescript" />
 <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=0D0D0D" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-A4161A?style=flat-square&logo=css3&logoColor=FFFFFF&labelColor=0D0D0D" alt="css3" />
 
@@ -83,6 +84,9 @@
 <img src="https://img.shields.io/badge/EXPRESS-0D0D0D?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=0D0D0D" alt="express" />
 <img src="https://img.shields.io/badge/NODEMON-A4161A?style=flat-square&logo=nodemon&logoColor=FFFFFF&labelColor=0D0D0D" alt="nodemon" />
 <img src="https://img.shields.io/badge/NPM-0D0D0D?style=flat-square&logo=npm&logoColor=FFFFFF&labelColor=0D0D0D" alt="npm" />
+<img src="https://img.shields.io/badge/FASTAPI-A4161A?style=flat-square&logo=fastapi&logoColor=FFFFFF&labelColor=0D0D0D" alt="fastapi" />
+<img src="https://img.shields.io/badge/DOCKER-0D0D0D?style=flat-square&logo=docker&logoColor=FFFFFF&labelColor=0D0D0D" alt="docker" />
+<img src="https://img.shields.io/badge/SUPABASE-A4161A?style=flat-square&logo=supabase&logoColor=FFFFFF&labelColor=0D0D0D" alt="supabase" />
 
 <b>FORGE &nbsp;·&nbsp; tools &amp; halls</b>
 
@@ -94,6 +98,30 @@
 <img src="https://img.shields.io/badge/TERMINAL-A4161A?style=flat-square&logo=windows-terminal&logoColor=FFFFFF&labelColor=0D0D0D" alt="terminal" />
 <img src="https://img.shields.io/badge/NOTION-0D0D0D?style=flat-square&logo=notion&logoColor=FFFFFF&labelColor=0D0D0D" alt="notion" />
 <img src="https://img.shields.io/badge/CANVA-A4161A?style=flat-square&logo=canva&logoColor=FFFFFF&labelColor=0D0D0D" alt="canva" />
+
+</div>
+
+<div align="center">
+  <img width="440" src="./assets/rule.svg?v=1" alt="" />
+</div>
+
+<div align="center">
+  <img width="440" src="./assets/title-sagas.svg?v=1" alt="THE SAGAS" />
+</div>
+
+<div align="center">
+<samp>tales&nbsp;worth&nbsp;telling&nbsp;at&nbsp;the&nbsp;fire&nbsp;—&nbsp;the&nbsp;latest&nbsp;voyages</samp>
+</div>
+
+<div align="center">
+
+| saga | what it does | forged with |
+|:--|:--|:--|
+| [**dhvani**](https://github.com/AnubhavBayard/dhvani) | Voice RAG over Indic MS MARCO. Speak Hindi, Bengali, Tamil or English, get grounded answers with citations or a deliberate refusal. | Python · RAG · speech |
+| [**securevault**](https://github.com/AnubhavBayard/securevault) | Zero-knowledge password manager for Android, web and Chrome. AES-256-GCM on device; server sees only encrypted blobs. | JavaScript · crypto |
+| [**off-we-go**](https://github.com/AnubhavBayard/off-we-go) | Android app to eat your way around the world: 1,387 sourced dishes across 29 countries, plus photo food memories on a map. | TypeScript · Android |
+| [**My-Manager**](https://github.com/AnubhavBayard/My-Manager) | Private RAG assistant for personal docs, certificates and scans. | FastAPI · React · ChromaDB |
+| [**hhgoa-frame-generator**](https://github.com/AnubhavBayard/hhgoa-frame-generator) | Canvas-rendered PFP frames and builder-ID cards for Hacker House Goa 2026, shareable to X. | JavaScript · Canvas |
 
 </div>
 
