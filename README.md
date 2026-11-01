@@ -10,7 +10,7 @@
 
 <a href="https://x.com/anubhavbayard"><img src="https://img.shields.io/badge/TWITTER-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D" alt="twitter" /></a>
 <a href="https://instagram.com/anubhavbayard"><img src="https://img.shields.io/badge/INSTAGRAM-A4161A?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=0D0D0D" alt="instagram" /></a>
-<a href="https://portfolio-plum-nine-t83py48y94.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D0D0D&labelColor=0D0D0D" alt="portfolio" /></a>
+<a href="https://portfolio-plum-nine-t83py48y94.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0D0D0D" alt="portfolio" /></a>
 
 <br/>
 
